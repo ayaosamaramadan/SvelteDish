@@ -1,2 +1,2 @@
-# SvelvetDish
-Recipe Finder built with Svelvet for exploring meals and recipes
+# SvelteDish
+Recipe Finder built with Svelte for exploring meals and recipes
